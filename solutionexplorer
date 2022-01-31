@@ -1,0 +1,12 @@
+
+Solution explorere is hiding
+
+
+How do you add new projects to a Visual Studio Solutions file?
+
+
+"Tools" menu -> 
+"Options" dialog -> 
+"Projects and Solutions" tree node -> 
+"General" tree node -> 
+"Always show solution" checkbox. Make sure it's ticked.
